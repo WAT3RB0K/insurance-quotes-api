@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bu52wnydCh+5Y6erDL13To8yMif36IFoG8c6Z+t2A/o=",
+  "Source": "InsuranceQuoteApp.API",
+  "BasePath": "_content/InsuranceQuoteApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

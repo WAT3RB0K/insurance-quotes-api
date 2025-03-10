@@ -1,0 +1,14 @@
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\bin\Debug\net8.0\InsuranceQuoteApp.Data.deps.json
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\bin\Debug\net8.0\InsuranceQuoteApp.Data.runtimeconfig.json
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\bin\Debug\net8.0\InsuranceQuoteApp.Data.dll
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\bin\Debug\net8.0\InsuranceQuoteApp.Data.pdb
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.csproj.AssemblyReference.cache
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.AssemblyInfoInputs.cache
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.AssemblyInfo.cs
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.dll
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\refint\InsuranceQuoteApp.Data.dll
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.pdb
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.genruntimeconfig.cache
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\ref\InsuranceQuoteApp.Data.dll
