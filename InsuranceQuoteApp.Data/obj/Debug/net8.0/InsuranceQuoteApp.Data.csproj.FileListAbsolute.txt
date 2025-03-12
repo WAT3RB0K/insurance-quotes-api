@@ -12,3 +12,4 @@ C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\refint\
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.pdb
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.genruntimeconfig.cache
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\ref\InsuranceQuoteApp.Data.dll
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.Data\obj\Debug\net8.0\InsuranceQuoteApp.Data.sourcelink.json

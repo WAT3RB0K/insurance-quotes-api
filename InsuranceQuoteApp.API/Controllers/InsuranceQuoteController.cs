@@ -19,5 +19,11 @@ namespace InsuranceQuoteApp.API.Controllers
             var quotes = await _insuranceQuoteService.GetAllQuotesAsync();
             return Ok(quotes);
         }
+        [HttpPost]
+        public async Task<IActionResult> CreatQuote()
+        {
+            var quotes = await _insuranceQuoteService.GetAllQuotesAsync();
+            return Ok(quotes);
+        }
     }
 }

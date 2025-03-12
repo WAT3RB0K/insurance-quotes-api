@@ -7,5 +7,6 @@ namespace InsuranceQuoteApp.BusinessLogic.Services
     public interface IInsuranceQuoteService
     {
         Task<IEnumerable<InsuranceQuoteDto>> GetAllQuotesAsync();
+        Task AddQuoteAsync(InsuranceQuoteDto QuoteDto);
     }
 }

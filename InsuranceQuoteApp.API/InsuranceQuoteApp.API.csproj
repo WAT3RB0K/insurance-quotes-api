@@ -22,5 +22,4 @@
     <ProjectReference Include="..\InsuranceQuoteApp.Data\InsuranceQuoteApp.Data.csproj" />
     <ProjectReference Include="..\InsuranceQuoteApp.BusinessLogic\InsuranceQuoteApp.BusinessLogic.csproj" />
   </ItemGroup>
-
 </Project>

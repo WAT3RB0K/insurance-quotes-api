@@ -13,3 +13,4 @@ C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.BusinessLogic\bin\Debug\net8.
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.BusinessLogic\bin\Debug\net8.0\InsuranceQuoteApp.Data.pdb
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.BusinessLogic\obj\Debug\net8.0\InsuranceQuoteApp.BusinessLogic.csproj.AssemblyReference.cache
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.BusinessLogic\obj\Debug\net8.0\Insuranc.8C49FCA5.Up2Date
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.BusinessLogic\obj\Debug\net8.0\InsuranceQuoteApp.BusinessLogic.sourcelink.json

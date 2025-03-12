@@ -16,12 +16,19 @@ namespace InsuranceQuoteApp.Data.Repositories
 
         public async Task<IEnumerable<Quote>> GetAllQuotesAsync()
         {
-            return await _context.Quotes.ToListAsync();
+            return await _context.Quotes
+                                .Include(q => q.InsurancePlan)
+                                .Include(p => p.Customer)
+                                    .ToListAsync();
         }
 
         public async Task<Quote> GetQuoteByIdAsync(int id)
         {
-            return await _context.Quotes.FindAsync(id);
+            var quote = await _context.Quotes
+                            .Include(q => q.InsurancePlan)
+                            .Include(p => p.Customer)
+                            .FirstOrDefaultAsync(x => x.Id == id);
+            return quote ?? throw new Exception("Quote not found.");
         }
 
         public async Task AddQuoteAsync(Quote quote)

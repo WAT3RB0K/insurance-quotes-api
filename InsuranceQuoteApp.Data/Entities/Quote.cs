@@ -5,10 +5,10 @@
         public int Id { get; set; } // Primary Key
         public decimal Amount { get; set; }
         public int CustomerId { get; set; }
-        public Customer Customer { get; set; } = new Customer();
+        public Customer? Customer { get; set; }
 
         public int InsurancePlanId { get; set; }
-        public required InsurancePlan InsurancePlan { get; set; } = new InsurancePlan();
+        public InsurancePlan? InsurancePlan { get; set; }        
         public DateTime StartDate = DateTime.Now;
     }
 }

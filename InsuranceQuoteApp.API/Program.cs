@@ -22,11 +22,34 @@ builder.Services.AddDbContext<InsuranceQuoteAppDbContext>(options =>
 builder.Services.AddScoped<IInsuranceQuoteRepository, InsuranceQuoteRepository>();
 builder.Services.AddScoped<IInsuranceQuoteService, InsuranceQuoteService>();
 
+builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddScoped<ICustomerService, CustomerService>();
+
 // Add controllers
 builder.Services.AddControllers();
 
 // Ensure the app listens on the correct URL for Docker
 builder.WebHost.UseUrls("http://0.0.0.0:80");
+
+// builder.Services.AddAuthentication(options =>
+// {
+//     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+// })
+// .AddJwtBearer(options =>
+// {
+//     options.TokenValidationParameters = new TokenValidationParameters
+//     {
+//         ValidateIssuer = true,
+//         ValidateAudience = true,
+//         ValidateLifetime = true,
+//         ValidateIssuerSigningKey = true,
+//         ValidIssuer = builder.Configuration["Jwt:Issuer"],
+//         ValidAudience = builder.Configuration["Jwt:Audience"],
+//         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+//     };
+// });
+
 
 var app = builder.Build();
 

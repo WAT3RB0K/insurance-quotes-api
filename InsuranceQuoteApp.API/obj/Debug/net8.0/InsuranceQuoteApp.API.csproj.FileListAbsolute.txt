@@ -179,3 +179,4 @@ C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.API\obj\Debug\net8.0\refint\I
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.API\obj\Debug\net8.0\InsuranceQuoteApp.API.pdb
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.API\obj\Debug\net8.0\InsuranceQuoteApp.API.genruntimeconfig.cache
 C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.API\obj\Debug\net8.0\ref\InsuranceQuoteApp.API.dll
+C:\Users\enriq\InsuranceQuoteApp\InsuranceQuoteApp.API\obj\Debug\net8.0\InsuranceQuoteApp.API.sourcelink.json
