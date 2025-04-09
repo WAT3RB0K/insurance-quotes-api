@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsuranceQuoteApp.BusinessLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91467411409d610cee384dd9e11a37e8fb32de53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b5251223f51d7b8e496a71945c0a12bbcddd5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsuranceQuoteApp.BusinessLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsuranceQuoteApp.BusinessLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,14 @@
 using InsuranceQuoteApp.BusinessLogic.Services;
 using InsuranceQuoteApp.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace InsuranceQuoteApp.API.Controllers
 {
+    [Authorize]
+    [ApiController]
+    [Route("api/[CustomerCRUD]")]
     public class CustomerController : BaseApiController
     {
         private readonly ICustomerService _iCusomerService;
